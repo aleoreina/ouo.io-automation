@@ -1,4 +1,4 @@
-# ouo.io-automation
+# ouo.io-extract-links-w-python-selenium
 Input a list and get and output of all links of ouo.io
 
 ### Features
